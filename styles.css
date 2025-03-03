@@ -1,0 +1,9 @@
+  #box {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: transform 1s ease-in-out;
+  }
+  .move {
+    transform: translate(400px, 180px);
+  }
